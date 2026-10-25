@@ -165,5 +165,4 @@ The canonical SHA-256 fingerprint is committed to the blockchain. Users can expo
 
 ---
 
-## 👤 Author
-- **Pushkar** - [@Pushkar173](https://github.com/Pushkar173)
+
