@@ -1,0 +1,17 @@
+forex_env/
+__pycache__/
+*.pyc
+models/
+data/
+*.pkl
+*.h5
+*.model
+notebooks/
+utils/
+ledger.db*
+*.db*
+*.sqlite3
+.env
+contracts/.deployed_address
+contracts/ForexLedger_abi.json
+contracts/ForexLedger_bin.txt
